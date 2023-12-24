@@ -1,0 +1,6 @@
+@WebRecreationCenter.Server_HostAddress = http://localhost:5082
+
+GET {{WebRecreationCenter.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
